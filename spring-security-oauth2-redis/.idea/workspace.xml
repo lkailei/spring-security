@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16b8514d-55f8-4071-bfcb-8eb4524b571d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\BlueEarth\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jX05Yh689c8IvCkoqZyfZhqXlv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-security-oauth2-redis_datasource" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringSecurityOauth2RedisApplication (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityOauth2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-security-oauth2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kausanshi.springsecurityoauth2.SpringSecurityOauth2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityOauth2RedisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-oauth2-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaysanshi.springsecurityoauth2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kaysanshi.springsecurityoauth2.SpringSecurityOauth2RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityOauth2RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-security-oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaysanshi.springsecurityoauth2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kaysanshi.springsecurityoauth2.SpringSecurityOauth2RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringSecurityOauth2RedisApplication (1)" />
+        <item itemvalue="Spring Boot.SpringSecurityOauth2RedisApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16b8514d-55f8-4071-bfcb-8eb4524b571d" name="Default Changelist" comment="" />
+      <created>1603934954105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603934954105</updated>
+      <workItem from="1603934956220" duration="9953000" />
+      <workItem from="1603955538176" duration="1370000" />
+      <workItem from="1603956918088" duration="1851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="256" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603956674445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="256" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956674445" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603957418511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603957418511" />
+    <state width="1877" height="162" key="GridCell.Tab.0.bottom" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state width="1877" height="162" key="GridCell.Tab.0.center" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state width="1877" height="162" key="GridCell.Tab.0.left" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state width="1877" height="162" key="GridCell.Tab.0.right" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state width="1877" height="162" key="GridCell.Tab.1.bottom" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state width="1877" height="162" key="GridCell.Tab.1.center" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state width="1877" height="162" key="GridCell.Tab.1.left" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state width="1877" height="162" key="GridCell.Tab.1.right" timestamp="1603956908948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="162" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956908948" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1603955724382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603955724382" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603956395763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603956395763" />
+  </component>
+</project>
